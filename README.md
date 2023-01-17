@@ -4,6 +4,6 @@
 
 |No.|Archivo|Descrpcion|
 |--|--|--|
-|1.|programa0-py|Hola mundo en python|
+|1.|programa0.py|Hola mundo en python|
 
 │
