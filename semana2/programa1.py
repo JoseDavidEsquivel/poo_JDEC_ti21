@@ -6,5 +6,5 @@
     caracteres
 """
 variable1 = "Hola "  # Variable que almacena una cadena de caracteres 
-variable2 = "Python"  # Variable que almacena una cadena de caracteres
+variable2 = '619'  # Variable que almacena una cadena de caracteres
 print(variable1 + variable2)  # Operacion que concatena 2 cadenas 
