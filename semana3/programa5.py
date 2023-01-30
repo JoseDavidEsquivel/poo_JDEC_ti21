@@ -9,7 +9,7 @@
 numero0 = input("Numero 1 : ") # Esta linea pide una entrada de cualquier tipo (generalmente a str)
 """
 numero1 = int(input("Numero 1 : ")) # Esta linea pide una entrada y la especifica como tipo int "int(input())"
-numero2 = 10 # Valor fijo de tipo int
+numero2 = int(input("Numero 2 : ")) # La misma funcion que arriba
 
 suma = numero1+numero2 # Realiza el proceso de las operaciones indicadas
 resta = numero1-numero2
