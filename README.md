@@ -8,6 +8,7 @@
 |2.|programa1.py|Comentarios multilinea, comentarios de una linea,concatenacion de cadenas, cadena de caracteres|
 |3.|programa2.py|Print , .format|
 |4.|programa3.py|Print, operaciones aritmeticas|
-|5.|programa5.py|Funciones basicas del Key and Value|
+|5.|programa4.py|Funciones basicas del Key and Value|
+|6.|programa5.py|Casting de valores y comando "input"|
 
 ###### plantilla |#.|programa#.py|  |
