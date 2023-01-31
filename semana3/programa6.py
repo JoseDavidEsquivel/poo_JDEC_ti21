@@ -7,15 +7,15 @@
 
 print("Introduzca las medidas de los lados de su triangulo")
 
-lado1= int(input("Lado 1 = "))
+lado1= int(input("Lado 1 = ")) # peticion de los lados
 lado2= int(input("Lado 2 = "))
 lado3= int(input("Lado 3 = "))
 
-perimetro = lado1 + lado2 + lado3
-sp = perimetro/2
-area = sp*(sp-lado1)*(sp-lado2)*(sp-lado3)
-area = area**0.5
+perimetro = lado1 + lado2 + lado3 # operaciones de el perimetro
+sp = perimetro/2 # operaciones de semiperimetro
+area = sp*(sp-lado1)*(sp-lado2)*(sp-lado3) # operaciones de el area
+area = area**0.5 # operaciones de el area
 
 
-print(perimetro)
+print(perimetro) # impresion del perimetro y area
 print(area)
