@@ -10,5 +10,6 @@
 |4.|programa3.py|Print, operaciones aritmeticas|
 |5.|programa4.py|Funciones basicas del Key and Value|
 |6.|programa5.py|Casting de valores y comando "input"|
-
+|7.|programa6.py|Area y perimetro de un triangulo dado sus 3 lados|
+|8.|programa7.py|Area y perimetro de un circulo y cuadrado|
 ###### plantilla |#.|programa#.py|  |
