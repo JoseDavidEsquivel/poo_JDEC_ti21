@@ -12,7 +12,11 @@
 |6.|programa5.py|Casting de valores y comando "input"|
 |7.|programa6.py|Area y perimetro de un triangulo dado sus 3 lados|
 |8.|programa7.py|Area y perimetro de un circulo y cuadrado|
-|9.|programa8.py|Programa que imprima numero mayor o none si son iguales (Ulitizacion de Unit Test)|
+|9.|programa8.py|Utilidades del if y operadores|
+|10.|programa9py|Programa que imprima numero mayor o none si son iguales|
+|11.|programa10.py|Programa que imprima numero mayor o none si son iguales (De multiples formas)|
+|12.|programa11.py|Definicion de funciones|
+|13.|programa12.py|Definicion de funciones (con typing)(solo disponible para versiones posteriores a 3.9 de python)|
 
 
 ###### plantilla |#.|programa#.py|  |
