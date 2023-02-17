@@ -17,8 +17,8 @@ mult = numero1*numero2 # Realiza el proceso de la multiplicacion
 division = numero1/numero2 # Realiza el proceso de la division
 potencia = numero1**numero2 # Realiza el proceso de la potencia (El simbolo es **)
 
-print(suma) # Imprime el resultado de las operaciones correspondientes
-print(resta)
-print(mult)
-print(division)
-print(potencia)
+print(suma) # Imprime el resultado de las operaciones correspondientes (suma)
+print(resta) # Imprime el resultado de las operaciones correspondientes (resta)
+print(mult) # Imprime el resultado de las operaciones correspondientes (multiplicacion)
+print(division) # Imprime el resultado de las operaciones correspondientes (division)
+print(potencia) # Imprime el resultado de las operaciones correspondientes (potencia)

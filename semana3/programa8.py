@@ -50,6 +50,6 @@ in - not in
 """
 
 if n1>n2:  # If son una estructura de control condicional, enfrente del if se coloca la condicion
-    print("hola")
+    print("hola") #Imprime hola
 else: # Si la condicion de arriba no se cumple se hace el codigo ligado al "else"
-    print("adios")
+    print("adios") #Imprime adios
